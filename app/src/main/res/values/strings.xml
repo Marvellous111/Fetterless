@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fetterless</string>
+
+    <string name="signin">Sign in using Internet Identity</string>
+    <string name="signup">Create an Internet Identity</string>
+    <string name="maintext">Securely send crypto</string>
+    <string name="subtext">Send crypto anywhere using the ICP network</string>
+
+    <string name="home_main_first">Your total assets are valued at</string>
+    <string name="home_main_second">and your daily growth is</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="nfts">NFTs</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="swap">Swap</string>
+    <string name="home_recent">Recent transactions</string>
+    <string name="home_recent_all">See all</string>
+    <string name="home_nfts">Your NFTs</string>
+    <string name="home_nfts_get">Get NFTs</string>
+
+    <string name="portfolio_navigation_home">Home</string>
+    <string name="portfolio_bitcoin">Bitcoin</string>
+    <string name="portfolio_ethereum">Ethereum</string>
+    <string name="portfolio_tether">Tether</string>
+    <string name="portfolio_solana">Solana</string>
+
+    <string name="send_transfer_to">Transfer to</string>
+    <string name="send_transfer_amount">Transfer amount</string>
+    <string name="send_bitcoin_address">Bitcoin address</string>
+
+    <string name="transaction_change">Change</string>
+</resources>
